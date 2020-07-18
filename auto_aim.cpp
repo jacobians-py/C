@@ -1,8 +1,8 @@
 #include "autoaim.h"
-#include "globals.h"
-#include "SDK.hpp"
+#include "iostream"
+#include "algorithm"
 
-#include "engine.h"
+#include "raw.h"
 
 #define M_PI		3.14159265358979323846
 #define M_PI_F		((float)(M_PI))
